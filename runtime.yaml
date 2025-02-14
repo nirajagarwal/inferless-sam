@@ -1,0 +1,9 @@
+build:
+  cuda_version: "12.1.1"
+  python_packages:
+    - "accelerate"
+    - "torch"
+    - "transformers"
+    - "diffusers"
+    - "segment-anything-py"
+    - "opencv-python-headless"
