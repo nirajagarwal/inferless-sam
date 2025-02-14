@@ -2,5 +2,5 @@
 torch>=2.0.0
 torchvision
 transformers
-segment-anything
+segment-anything-py
 opencv-python-headless

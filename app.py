@@ -2,7 +2,6 @@ import torch
 from segment_anything import SamAutomaticMaskGenerator, sam_model_registry
 import numpy as np
 import json
-import cv2
 
 MODEL_WEIGHTS_DIR =  "/var/nfs-mount/sam-volume"
 MODEL_WEIGHTS_FILE = "sam_vit_b_01ec64.pth"
